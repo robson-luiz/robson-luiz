@@ -39,9 +39,9 @@
 </p>
 
 <a href="https://github.com/robson-luiz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robson-luiz&layout=default&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=robson-luiz&layout=default&theme=dark" />
 </a>
 
 <a href="https://github.com/robson-luiz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-luiz&theme=dark&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-luiz&theme=dark&layout=compact" />
 </a>
