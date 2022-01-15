@@ -13,7 +13,7 @@
 <p>I'm a IT Technician and Web Developer PHP graduated in Analysis and System Development and I'm also graduated in IT Technician for Internet.</p>
 <p>Currently providing service as a Web Developer Freelancer at <a href="https://celke.com.br/" target="__blank">Celke</a>. My stack is: PHP, MySQL, HTML5, Css3, framework Bootstrap, JavaScript.</p>
 <p>The additional service that I provide to Celke are video lessons editing</p>
-<p>Besides, I also provide services as a freelance web developer for other clients or companies.</p>
+<p>I also provide services as a freelance web developer for other clients or companies.</p>
 
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
