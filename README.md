@@ -39,7 +39,7 @@
 </p>
 
 <a href="https://github.com/robson-luiz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robson-luiz&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robson-luiz&layout=default&theme=dark" />
 </a>
 
 <a href="https://github.com/robson-luiz/github-readme-stats">
