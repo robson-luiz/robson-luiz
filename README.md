@@ -7,7 +7,7 @@
 <a href="mailto: robsonluiz_6@hotmail.com">
     <img src="https://user-images.githubusercontent.com/20735034/149609991-58c03c8f-be3d-4ef2-b790-b5be58d99aee.png" width="22px" alt="Hotmail" align="left" />
 </a>
-
+<hr>
 <!-- Title -->
 <h1>About Me</h1>
 <p>I'm a IT Technician and Web Developer PHP graduated in Analysis and System Development and I'm also graduated in IT Technician for Internet.</p>
