@@ -43,5 +43,5 @@
 </a>
 
 <a href="https://github.com/robson-luiz/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-luiz&theme=dark&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-luiz&theme=dark&layout=default" />
 </a>
