@@ -1,15 +1,15 @@
 ### Hi there, I'm Robson. 👋
 <!-- Social Network -->
 <a href="https://www.linkedin.com/in/robsonluiz/?locale=en_US">
-    <img src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" width="22px" alt="Linkdein" align="center"/>
+    <img src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" width="22px" alt="Linkdein" align="left"/>
 </a>
 
 <a href="mailto: robsonluiz_6@hotmail.com">
-    <img src="https://www.logo.wine/a/logo/Outlook.com/Outlook.com-Logo.wine.svg" width="50px" alt="Hotmail" align="center" />
+    <img src="https://user-images.githubusercontent.com/20735034/149609991-58c03c8f-be3d-4ef2-b790-b5be58d99aee.png" width="22px" alt="Hotmail" align="left" />
 </a>
 
 <!-- Title -->
-<h1 align="center">About Me</h1>
+<h1>About Me</h1>
 <p>I'm a IT Technician and Web Developer PHP graduated in Analysis and System Development and I'm also graduated in IT Technician for Internet.</p>
 <p>Currently providing service as a Web Developer Freelancer at <a href="https://celke.com.br/" target="__blank">Celke</a>. My stack is: PHP, MySQL, HTML5, Css3, framework Bootstrap, JavaScript.</p>
 <p>The additional service that I provide to Celke are video lessons editing</p>
@@ -38,6 +38,10 @@
     <code><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>           
 </p>
 
-[![robson-luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=robson-luiz&layout=compact)](https://github.com/robson-luiz/github-readme-stats)
+<a href="https://github.com/robson-luiz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robson-luiz&layout=compact&theme=dark" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robson-luiz)](https://github.com/robson-luiz/github-readme-stats)
+<a href="https://github.com/robson-luiz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-luiz&theme=dark&layout=compact" />
+</a>
